@@ -53,7 +53,8 @@ body {
     .nft-card-container > .nft-text-container > .nft-name {
       margin: 20px 0 10px 0;
       width: 100%;
-      font-size: 20px; }
+      font-size: 20px;
+      font-weight: 600; }
     .nft-card-container > .nft-text-container .nft-description {
       margin: 5px 0 5px 0;
       font-weight: 300;
